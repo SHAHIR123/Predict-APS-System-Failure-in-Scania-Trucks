@@ -1,4 +1,4 @@
-# Predict-APS-System-Failures-in-Scania-Trucks
+# Predict APS System Failures in Scania Trucks
 
 ## Advanced Data Science Capstone Project - IBM Coursera 
 
