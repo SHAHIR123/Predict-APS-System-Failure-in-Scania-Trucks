@@ -1,7 +1,6 @@
 # Predict-APS-System-Failures-in-Scania-Trucks
-**Create a model that accurately predict APS system failures in Scania Trucks and reduce the cost of failures.**
 
-**This project is done for IBM Coursera Advanced Data Science Capstone Project.**
+## IBM Coursera Advanced Data Science Capstone Project.
 
 ## Data Set
 
@@ -9,7 +8,7 @@ The data set consists of data collected from heavy Scania trucks in everyday usa
 
 ## Use Case
 
-Create a model that accuartely predict the APS system failures in Scania Trucks and reduce the cost for failures
+**Create a model that accurately predict APS system failures in Scania Trucks and reduce the cost of failures.**
 
 Total cost = Cost_1 * Number of Instances of False Positive Cases + Cost_2 * Number of Instances of False Negative Cases
 
