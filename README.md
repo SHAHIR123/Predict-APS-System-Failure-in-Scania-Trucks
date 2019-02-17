@@ -1,6 +1,6 @@
 # Predict-APS-System-Failures-in-Scania-Trucks
 
-## IBM Coursera Advanced Data Science Capstone Project.
+## Advanced Data Science Capstone Project - IBM Coursera 
 
 ## Data Set
 
